@@ -12,10 +12,6 @@
 
 ## Images/Videos:
 
-#### Deletes opposite vectors from the list of vectors:
-
-![Delete Opposite Vector](./promotion/vectors-usage.gif)
-
 #### Draws the inputted vectors:
 
 ![Vectors Drawing](./promotion/vectors-drawing.png)
@@ -35,10 +31,6 @@
 #### Handles invalid input in Kinematics Window:
 
 ![Kinematics Error Handling](./promotion/error-handling.png)
-
-#### Solve kinematics equations:
-
-![Solve and draw kinematics vectors](./promotion/vectors-kinematics-drawing.gif)
 
 ## What I learned how to:
 - Create multi-page Tkinter applications
